@@ -18,5 +18,5 @@ Version 1.0:
 
 [Play in Electroniq - an online Emulator by 0xC0DE](https://0xc0de6502.github.io/electroniq/?dfs)
 
-![Electron Chuckulus Instructions Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C1.png)
+![Electron Chuckulus Title Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C1.png)![Electron Chuckulus Instructions Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C2.png)
 
