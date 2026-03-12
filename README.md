@@ -19,6 +19,8 @@ Version 1.0 - 12th March 2026:
 
 [Tape Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-Electron-V1-0.uef)
 
+[Or play online with Electroniq , an Acorn Electron emulator by 0xC0DE](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/Snuggsy187/Chuckulus/main/Chuckulus-Electron-V1-0.ssd)
+
 ![Electron Chuckulus Title Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C1.png)
 ![Electron Chuckulus Instructions Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C2.png)
 
