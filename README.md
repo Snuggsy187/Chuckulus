@@ -11,3 +11,5 @@ BBC Micro version coming soon !
 
 Free download.... donations quite welcome at [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/snuggsy187)
 
+Version 1.0:
+[DFS Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-Electron-V1-0.ssd)
