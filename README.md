@@ -20,7 +20,9 @@ Version 1.0 - 12th March 2026
 
 ![Electron Chuckulus Title Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C1.png)
 ![Electron Chuckulus Instructions Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C2.png)
+
 ![Electron Chuckulus Menu Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C3.png)
+
 ![Electron Chuckulus Grab 1](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C4.png)
 ![Electron Chuckulus Grab 2](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C5.png)
 ![Electron Chuckulus Grab 3](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C6.png)
