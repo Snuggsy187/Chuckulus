@@ -1,25 +1,25 @@
 
 # Chuckulus
 
-For the Acorn Electron
+For the Acorn Electron and BBC Micro Model B
 
 [by @Snuggsy187](https://bsky.app/profile/snuggsy187.bsky.social)
 
-A game for the Acorn Electron, incorporating elements from 1980's classics Chuckie Egg and Nebulus.
-
-BBC Micro version coming soon !
+Incorporating elements from 1980's classics Chuckie Egg and Nebulus.
 
 Free download.... donations quite welcome at [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/snuggsy187)
 
-Version 1.0 - 12th March 2026:
+Version 1.1 - 20th April 2026:
 
-[DFS Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-Electron-V1-0.ssd)
+[DFS Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-BE-V1-1.ssd)
 
-[ADFS Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-Electron-V1-0.adf)
+[ADFS Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-BE-V1-0.adf)
 
-[Tape Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-Electron-V1-0.uef)
+[Acorn Electron Tape Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-Electron-V1-1.uef)
 
-[Or play online with Electroniq , an Acorn Electron emulator by 0xC0DE](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/Snuggsy187/Chuckulus/main/Chuckulus-Electron-V1-0.ssd)
+[BBC Micro Tape Image](https://github.com/Snuggsy187/Chuckulus/raw/main/Chuckulus-BBC-V1-1.uef)
+
+[Or play online with Electroniq , an Acorn Electron emulator by 0xC0DE](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/Snuggsy187/Chuckulus/main/Chuckulus-BE-V1-1.ssd)
 
 ![Electron Chuckulus Title Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C1.png)
 ![Electron Chuckulus Instructions Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C2.png)
