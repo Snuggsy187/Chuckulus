@@ -23,7 +23,7 @@ Version 1.1 - 20th April 2026:
 
 [Play online with Electroniq , an Acorn Electron emulator by 0xC0DE](https://0xc0de6502.github.io/electroniq/?dfs&autoboot&disk0=https://raw.githubusercontent.com/Snuggsy187/Chuckulus/main/Chuckulus-BE-V1-1.ssd)
 
-[Play online with JSBeeb , a BBC Micro by Matt Godbolt](https://bbc.xania.org/?autoboot&disc=https://raw.githubusercontent.com/Snuggsy187/Chuckulus/main/Chuckulus-BE-V1-1.ssd)
+[Play online with JSBeeb , a BBC Micro emulator by Matt Godbolt](https://bbc.xania.org/?autoboot&disc=https://raw.githubusercontent.com/Snuggsy187/Chuckulus/main/Chuckulus-BE-V1-1.ssd)
 
 ![Electron Chuckulus Title Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C1.png)
 ![Electron Chuckulus Instructions Screen](https://github.com/Snuggsy187/Chuckulus/blob/main/png/C2.png)
